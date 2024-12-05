@@ -1,8 +1,12 @@
-# Advent of Code - Máté László
+# Advent of Code - Setény János
+
+I use `com.lmat.adventofcode.PuzzleRunner` from Máté László. Please see [his repo](https://github.com/matelaszlo/advent-of-code-scala).
+
+Please see also [Scala Center's Advent of Code solutions](https://scalacenter.github.io/scala-advent-of-code/).
+
 My solutions to the [Advent of Code](https://adventofcode.com/) challenges
 - Using a functional programming style in Scala
-- With no external dependencies (for the educational value)
-- To run a puzzle pass the year and the day as parameters. E.g: `sbt 'run 2018 15'`
+- To run a puzzle pass the year and the day as parameters. E.g: `sbt 'run 2024 01'`
 
 ## Solutions
 
